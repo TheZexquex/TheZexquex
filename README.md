@@ -19,7 +19,7 @@ Below you can find some more information about me and my interests and projects.
 <img src="https://img.shields.io/badge/CSS-%235865F2?style=for-the-badge&logo=css3&logoColor=white&color=254bdd&labelColor=254bdd"><br>
 
 
-[discord]: "https://discord.com/users/490523031274389504"
-[twitter]: "https://twitter.com/TheZexquex"
+[discord]: https://discord.com/users/490523031274389504
+[twitter]: https://twitter.com/TheZexquex
   
 
