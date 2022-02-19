@@ -5,9 +5,9 @@ I am from Germany / Bavaria and am currently in grade 11 of a grammar school. I 
 Below you can find some more information about me and my interests and projects.
 
 **What I like**<br>
-❤️Jetbrains<br>
+❤Jetbrains<br>
 🎶EDM, Electro Swing<br>
-🎮Minecraft, Anno 1800, Among Us<br>
+🎮Minecraft, Anno 1800, Among Us, Need for Speed<br>
 
 **Contact me**<br>
 [<img src="https://img.shields.io/badge/TheZexquex%2300001-%235865F2?style=for-the-badge&logo=discord&logoColor=white&color=5865F2&labelColor=5865F2">][discord]<br>
