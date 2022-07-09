@@ -10,7 +10,7 @@ Below you can find some more information about me and my interests and projects.
 🎮Minecraft, Anno 1800, Among Us, Need for Speed<br>
 
 **Contact me**<br>
-[<img src="https://img.shields.io/badge/TheZexquex%2300001-%235865F2?style=for-the-badge&logo=discord&logoColor=white&color=5865F2&labelColor=5865F2">][discord]<br>
+[<img src="https://img.shields.io/badge/TheZexquex%230001-%235865F2?style=for-the-badge&logo=discord&logoColor=white&color=5865F2&labelColor=5865F2">][discord]<br>
 [<img src="https://img.shields.io/badge/TheZexquex-%235865F2?style=for-the-badge&logo=twitter&logoColor=white&color=1d9bf0&labelColor=1d9bf0">][twitter]<br>
 
 **Languages**<br>
