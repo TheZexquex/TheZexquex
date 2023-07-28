@@ -1,22 +1,28 @@
 
-<h1>Hey, I'm Jakob aka TheZexquex <img width="50px" src="https://cdn.discordapp.com/emojis/552223735139139594.gif?v=1"></h1>
+<h1>Hey, I'm Jakob, mostly known as TheZexquex <img width="50px" src="https://cdn.discordapp.com/emojis/552223735139139594.gif?v=1"></h1>
 
-I am from Germany / Bavaria and am currently in grade 11 of a grammar school. I entered the wonderful world of computer science in autumn 2019 with the growing interest in Minecraft plugins.
+I live in a beautifaul city in Bavaria, Germany. Since i graduated from high school this year i will start studying computer science in october. 
+My entry into the wonderful world of computer science happened through my the growing interest in [Minecraft](https://minecraft.net) plugins during the summer vacations 2019.
 Below you can find some more information about me and my interests and projects.
 
 **What I like**<br>
-❤Jetbrains<br>
+❤Jetbrains, Wumpus<br>
 🎶EDM, Electro Swing<br>
-🎮Minecraft, Anno 1800, Among Us, Need for Speed<br>
+🎮Minecraft, Mafia, God of War, Anno 1800, FarCry, Need for Speed<br>
 
 **Contact me**<br>
-[<img src="https://img.shields.io/badge/TheZexquex%230001-%235865F2?style=for-the-badge&logo=discord&logoColor=white&color=5865F2&labelColor=5865F2">][discord]<br>
+[<img src="https://img.shields.io/badge/thezexquex-%235865F2?style=for-the-badge&logo=discord&logoColor=white&color=5865F2&labelColor=5865F2">][discord]<br>
 [<img src="https://img.shields.io/badge/TheZexquex-%235865F2?style=for-the-badge&logo=twitter&logoColor=white&color=1d9bf0&labelColor=1d9bf0">][twitter]<br>
 
-**Languages**<br>
-<img src="https://img.shields.io/badge/Java-%235865F2?style=for-the-badge&logo=java&logoColor=white&color=d92b2d&labelColor=d92b2d"><br>
-<img src="https://img.shields.io/badge/HTML5-%235865F2?style=for-the-badge&logo=html5&logoColor=white&color=dd4a23&labelColor=dd4a23"><br>
-<img src="https://img.shields.io/badge/CSS-%235865F2?style=for-the-badge&logo=css3&logoColor=white&color=254bdd&labelColor=254bdd"><br>
+**Languages and Tools**<br>
+<img src="https://img.shields.io/badge/Java-%235865F2?style=for-the-badge&logo=java&logoColor=white&color=d92b2d&labelColor=d92b2d"> 
+<img src="https://img.shields.io/badge/Gradle-white?style=for-the-badge&logo=gradle&logoColor=white&labelColor=%2302303A&color=%2302303A">
+<img src="https://img.shields.io/badge/IntelliJ-white?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white&labelColor=f62e5b&color=f62e5b">
+<br>
+<img src="https://img.shields.io/badge/HTML5-%235865F2?style=for-the-badge&logo=html5&logoColor=white&color=dd4a23&labelColor=dd4a23"> 
+<img src="https://img.shields.io/badge/CSS3-%235865F2?style=for-the-badge&logo=css3&logoColor=white&color=254bdd&labelColor=254bdd">
+<img src="https://img.shields.io/badge/Nuxt-white?style=for-the-badge&logo=nuxt.js&logoColor=white&labelColor=0c0c0d&color=0c0c0d"><br>
+
 
 
 [discord]: https://discord.com/users/490523031274389504
