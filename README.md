@@ -1,14 +1,18 @@
 
 <h1>Hey, I'm Jakob, mostly known as TheZexquex <img width="50px" src="https://cdn.discordapp.com/emojis/552223735139139594.gif?v=1"></h1>
 
-I live in a beautifaul city in Bavaria, Germany. Since i graduated from high school this year i will start studying computer science in october. 
+I live in a beautifaul city in Bavaria, Germany. I graduated from high school in 2023 and am now studying computer science. 
 My entry into the wonderful world of computer science happened through my the growing interest in [Minecraft](https://minecraft.net) plugins during the summer vacations 2019.
 Below you can find some more information about me and my interests and projects.
 
-**What I like**<br>
 ❤Jetbrains, Wumpus<br>
 🎶EDM, Electro Swing<br>
 🎮Minecraft, Mafia, God of War, Anno 1800, FarCry, Need for Speed<br>
+
+**Projects**<br>
+[⇛ CarossaOper Website - Website for an theatre project of my former high school](https://github.com/CarossaOper)<br>
+[⇛ CommandChainPlugin - A simple Minecraft plugin to execute multiple commands at once or with delay](https://github.com/thezexquex/commandchain)<br>
+[⇛ Yasmpp (YetAnotherSMPPlugin) - A minecraft plugin that provides useful utilities for my annual christmas smp](https://github.com/thezexquex/yasmpp)<br>
 
 **Contact me**<br>
 [<img src="https://img.shields.io/badge/thezexquex-%235865F2?style=for-the-badge&logo=discord&logoColor=white&color=5865F2&labelColor=5865F2">][discord]<br>
@@ -27,5 +31,3 @@ Below you can find some more information about me and my interests and projects.
 
 [discord]: https://discord.com/users/490523031274389504
 [twitter]: https://twitter.com/TheZexquex
-  
-
