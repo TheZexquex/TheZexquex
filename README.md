@@ -9,11 +9,6 @@ Below you can find some more information about me and my interests and projects.
 🎶EDM, Electro Swing<br>
 🎮Minecraft, Mafia, God of War, Anno 1800, FarCry, Need for Speed<br>
 
-**Projects**<br>
-[⇛ CarossaOper Website - Website for an theatre project of my former high school](https://github.com/CarossaOper)<br>
-[⇛ CommandChainPlugin - A simple Minecraft plugin to execute multiple commands at once or with delay](https://github.com/thezexquex/commandchain)<br>
-[⇛ Yasmpp (YetAnotherSMPPlugin) - A minecraft plugin that provides useful utilities for my annual christmas smp](https://github.com/thezexquex/yasmpp)<br>
-
 **Contact me**<br>
 [<img src="https://img.shields.io/badge/thezexquex-%235865F2?style=for-the-badge&logo=discord&logoColor=white&color=5865F2&labelColor=5865F2">][discord]<br>
 [<img src="https://img.shields.io/badge/TheZexquex-%235865F2?style=for-the-badge&logo=twitter&logoColor=white&color=1d9bf0&labelColor=1d9bf0">][twitter]<br>
