@@ -1,7 +1,7 @@
 
 <h1>Hey, I'm Jakob, mostly known as TheZexquex <img width="50px" src="https://cdn.discordapp.com/emojis/552223735139139594.gif?v=1"></h1>
 
-I live in a beautifaul city in Bavaria, Germany. I graduated from high school in 2023 and am now studying computer science. 
+I live in a beautifaul city in Bavaria, Germany. 
 My entry into the wonderful world of computer science happened through my the growing interest in [Minecraft](https://minecraft.net) plugins during the summer vacations 2019.
 Below you can find some more information about me and my interests and projects.
 
